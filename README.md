@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Kitsune-cop
-- 👀 I’m interested in Technology and new programming language...
-- 📫 How to reach me LinkedIn and social media... 
-- social media links in my profile
-
-<!---
-Kitsune-cop/Kitsune-cop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Ratthathammanoon Chukamlang but you can also call me Frame or Kitsunekung.
+I am currently studying API technology.
+I want to learn more about technology in this era.
