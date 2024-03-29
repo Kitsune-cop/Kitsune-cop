@@ -6,7 +6,7 @@ Junior Developer
 
 I've been learning code for 4 years. I start with Java and change to web development. On web development, I'm working on the frontend and backend, but I prefer the backend. Now, I'm working on python
 
-* ✉️  You can contact me at [rpf.tv.1234@gmail.com](mailto:rpf.tv.1234@gmail.com)
+* ✉️  You can contact me at [ratthawork01@gmail.com](mailto:ratthawork01@gmail.com)
 * 🧠  I'm learning about AI development
 
 ### Skills
