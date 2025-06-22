@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frame</h1>
 <h3 align="center">A passionate backend developer from Thailand</h3>
 
-- 💬 Ask me about **vue, nuxt3, python, nestjs, express, fastAPI, go, fiber**
+- 💬 Ask me about **vue, nuxt3, python, nestjs, express**
 
 - 📫 How to reach me **ratthawork01@gmail.com**
 
