@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **vue, nuxt3, python, nestjs, express**
 
-- 📫 How to reach me **ratthawork01@gmail.com**
+- 📫 How to reach me e-mail:**ratthawork01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
